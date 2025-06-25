@@ -4,12 +4,6 @@ A comprehensive e-commerce sales chatbot system built with React, TypeScript, an
 
 ---
 
-## 🚀 Live Demo & Repository
-
-- **GitHub Repository:** [https://github.com/HarshYadv5554/TechMart](https://github.com/HarshYadv5554/TechMart.git)
-
----
-
 ## 📦 Features
 
 - **Intelligent Chatbot Interface:** Natural language processing simulation for product searches, price inquiries, comparisons, and recommendations
